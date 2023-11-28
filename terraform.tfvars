@@ -1,0 +1,5 @@
+region = "us-east-1"
+instance_type= "t2.micro"
+topic_name = "sns_terra1"
+protocol_type = "email"
+end_point = "taiwo_osundairo@yahoo.com"
